@@ -21,7 +21,7 @@ By analyzing a diverse dataset—including car model, number of owners, age, mil
 The dataset consists of multiple Excel files, each representing a different city.  
 Each file provides details, specifications, and available features of various cars.  
 
-**Data Source:** [CarDekho Dataset]([https://drive.google.com/drive/folders/14GXrGlaXzys0qybbG4DfeolnPApcX5tZ](https://drive.google.com/drive/folders/1zcLuE8aZ5W-qEYoHMsJrPlxHm5ffdAag?usp=sharing))  
+**Data Source:** [CarDekho Dataset]((https://drive.google.com/drive/folders/1zcLuE8aZ5W-qEYoHMsJrPlxHm5ffdAag?usp=sharing)) 
 
 **Feature Description:** Available on the 3rd page of the dataset.
 
